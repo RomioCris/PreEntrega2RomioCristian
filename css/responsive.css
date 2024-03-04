@@ -29,7 +29,7 @@ html {
     -moz-box-direction: normal;
     -ms-flex-direction: column;
     flex-direction: column;
-    background-image: url(imagenes/hero.jpg);
+    background-image: url(../imagenes/hero.jpg);
     background-size: cover;
 }
 
@@ -236,19 +236,19 @@ footer .logo {
 /* secciones -------------------------- */
 
 main.index .seccion2 {
-    background-image: url(imagenes/explorabg.jpg);
+    background-image: url(../imagenes/explorabg.jpg);
 }
 
 main.index .seccion3 {
-    background-image: url(imagenes/saboreabg.jpg);
+    background-image: url(../imagenes/saboreabg.jpg);
 }
 
 main.index .seccion4 {
-    background-image: url(imagenes/disfrutabg.jpg);
+    background-image: url(../imagenes/disfrutabg.jpg);
 }
 
 main.index .seccion5 {
-    background-image: url(imagenes/descubribg.jpg);
+    background-image: url(../imagenes/descubribg.jpg);
 }
 
 
